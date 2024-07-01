@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eva2CGH</string>
+    <string name="agregar">Add</string>
+    <string name="eliminar">Delete</string>
+    <string name="eliminar_todo">Delete All</string>
+    <string name="producto">Product</string>
+    <string name="crear">Create</string>
+    <string name="volver">Back</string>
+    <string name="producto_agregado">Product successfully added</string>
+    <string name="sin_productos">No products to display</string>
+</resources>

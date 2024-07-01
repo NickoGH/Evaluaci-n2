@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Eva2CGH</string>
+    <string name="agregar">Agregar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="eliminar_todo">Eliminar Todo</string>
+    <string name="producto">Producto</string>
+    <string name="crear">Crear</string>
+    <string name="volver">Volver</string>
+    <string name="producto_agregado">Producto agregado exitosamente</string>
+    <string name="sin_productos">No hay productos que mostrar</string>
+
+</resources>
